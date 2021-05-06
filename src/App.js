@@ -1,11 +1,11 @@
 import React from 'react';
-
+import Home from './Home';
 import './App.css';
 
 function App() {
   return (
     <div className="app">
-      <h1>netflix challanges</h1>
+      <Home />
     </div>
   );
 }
